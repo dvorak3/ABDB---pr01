@@ -7,8 +7,6 @@
 
 Este documento recoge los comandos empleados en cada apartado de la práctica y la salida obtenida durante su ejecución.
 
-> **Nota:** los identificadores de la tabla `libros` comienzan en `2` porque durante la realización de la práctica hubo un `INSERT` fallido que consumió el primer valor de la secuencia `SERIAL`. Esto no afecta al funcionamiento de la base de datos.
-
 ---
 
 ## 1. Creación de la base de datos
@@ -938,7 +936,7 @@ Con ello se añadieron dos nuevos autores a la tabla `autores`.
 
 ## Resultado final
 
-La práctica permitió trabajar con:
+La práctica nos permitió trabajar con:
 
 - creación y administración de bases de datos;
 - usuarios, roles y privilegios;
